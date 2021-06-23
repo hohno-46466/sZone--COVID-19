@@ -1,4 +1,4 @@
-# sZone/COVID-19/Japan
+# sZone--COVID-19/COVID-19/Japan
 
 Japan
 
