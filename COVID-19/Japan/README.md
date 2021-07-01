@@ -3,10 +3,11 @@
 Japan
 
     ./Japan
-    ├── README.md
-    ├── Ishikawa -> 石川県の感染者総数の推移
-    └── 石川県の感染者総数の推移
-        ├── FY2021.txt
-        └── README.md
-    
-    1 directory, 3 files
+     ├── Ishikawa
+     │   ├── FY2020.txt
+     │   ├── FY2021.txt
+     │   └── README.md
+     ├── README.md
+     └── 石川県の感染者総数の推移 -> Ishikawa
+
+     2 directories, 4 files (Thu Jul  1 10:27:04 JST 2021)
