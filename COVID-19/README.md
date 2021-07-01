@@ -2,13 +2,16 @@
 
 COVID-19
 
-    ./COVID-19
-    ├── Japan
-    │   ├── README.md
-    │   ├── Ishikawa -> 石川県の感染者総数の推移
-    │   └── 石川県の感染者総数の推移
-    │       ├── FY2021.txt
-    │       └── README.md
-    └── README.md
-    
-    2 directories, 4 files
+    ./sZone--COVID-19
+     ├── COVID-19
+     │   ├── Japan
+     │   │   ├── Ishikawa
+     │   │   │   ├── FY2020.txt
+     │   │   │   ├── FY2021.txt
+     │   │   │   └── README.md
+     │   │   ├── README.md
+     │   │   └── 石川県の感染者総数の推移 -> Ishikawa
+     │   └── README.md
+     └── README.md
+
+     4 directories, 6 files (Thu Jul  1 10:21:59 JST 2021)
