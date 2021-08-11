@@ -1,4 +1,4 @@
-# sZone--COVID-19
+# GitHub/sZone--COVID-19
 
 COVID-19 related information
 
@@ -15,3 +15,5 @@ COVID-19 related information
      └── README.md
 
      4 directories, 6 files (Thu Jul  1 10:21:59 JST 2021)
+
+-EOF-
