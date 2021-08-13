@@ -16,4 +16,6 @@ COVID-19 related information
 
      4 directories, 6 files (Thu Jul  1 10:21:59 JST 2021)
 
+Note: 	url = https://github.com/hohno-46466/sZone--COVID-19
+
 -EOF-
