@@ -18,4 +18,6 @@ COVID-19 related information
 
 Note: 	url = https://github.com/hohno-46466/sZone--COVID-19
 
+Note:   url = git@github.com:hohno-46466/sZone--COVID-19.git
+
 -EOF-
