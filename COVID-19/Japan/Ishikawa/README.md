@@ -2,7 +2,7 @@
 
 石川県の感染者総数の推移
 
-     Ishikawa
+    ./Ishikawa
      ├── FY2020.txt
      ├── FY2021.old
      ├── FY2021.txt

@@ -2,13 +2,14 @@
 
 COVID-19 related information
 
-    sZone--COVID-19
+    ./sZone--COVID-19
      ├── COVID-19
      │   ├── Japan
      │   │   ├── Ishikawa
      │   │   │   ├── FY2020.txt
      │   │   │   ├── FY2021.old
      │   │   │   ├── FY2021.txt
+     │   │   │   ├── FY2022.txt
      │   │   │   └── README.md
      │   │   ├── README.md
      │   │   └── 石川県の感染者総数の推移 -> Ishikawa
@@ -16,24 +17,8 @@ COVID-19 related information
      ├── README.md
      └── 特設リンク：石川県 -> COVID-19/Japan/Ishikawa
      
-     5 directories, 7 files (Thu Sep 23 07:45:26 JST 2021)
+     5 directories, 8 files (Thu Mar 31 23:44:59 JST 2022)
 
-
-    sZone--COVID-19
-     ├── COVID-19
-     │   ├── Japan
-     │   │   ├── Ishikawa
-     │   │   │   ├── FY2020.txt
-     │   │   │   ├── FY2021.old
-     │   │   │   ├── FY2021.txt
-     │   │   │   └── README.md
-     │   │   ├── README.md
-     │   │   └── 石川県の感染者総数の推移 -> Ishikawa
-     │   └── README.md
-     ├── README.md
-     └── 特設リンク：石川県 -> COVID-19/Japan/Ishikawa
-     
-     5 directories, 7 files (Sun Feb 20 23:56:51 JST 2022)
 
 Note: 	url = https://github.com/hohno-46466/sZone--COVID-19
 

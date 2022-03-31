@@ -388,6 +388,6 @@ https://stopcovid19.pref.ishikawa.jp/
 https://www.hokkoku.co.jp/subcategory/st-coronaH,%E7%9F%B3%E5%B7%9D
 https://www.tvkanazawa.co.jp/program/co_emergency.html
 https://www.pref.ishikawa.lg.jp/kansen/coronakennai.html
-参考１：「取り下げ」が発生した場合、感染者総数等を過去に遡って修正するのか取り下げ日に辻褄を合わせるだけなのかがはっきりしていない点に注意(最終更新日時点で通算4件発生)
+参考１：「取り下げ」が発生した場合、感染者総数等を過去に遡って修正するのか取り下げ日に辻褄を合わせるだけなのかがはっきりしていない点に注意(2022年3月31日時点で通算283件発生)
 参考２：石川県の人口は東京都のおよそ 1/13
 -EOF-
