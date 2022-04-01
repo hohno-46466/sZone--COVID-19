@@ -2,15 +2,17 @@
 
 Japan
 
+
     ./Japan
      ├── Ishikawa
      │   ├── FY2020.txt
      │   ├── FY2021.old
      │   ├── FY2021.txt
+     │   ├── FY2022.tsv
      │   ├── FY2022.txt
      │   └── README.md
      ├── README.md
      └── 石川県の感染者総数の推移 -> Ishikawa
      
-     2 directories, 6 files (Thu Mar 31 23:44:12 JST 2022)
+     2 directories, 7 files (Fri Apr  1 18:34:52 JST 2022)
 
