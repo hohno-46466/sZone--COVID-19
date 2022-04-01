@@ -2,7 +2,6 @@
 
 石川県の感染者総数の推移
 
-
     ./Ishikawa
      ├── FY2020.txt
      ├── FY2021.old
@@ -11,5 +10,5 @@
      ├── FY2022.txt
      └── README.md
      
-     0 directories, 6 files (Fri Apr  1 18:34:32 JST 2022)
+     0 directories, 6 files (Fri Apr  1 20:04:09 JST 2022)
 
