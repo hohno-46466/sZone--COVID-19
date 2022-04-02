@@ -8,6 +8,7 @@ COVID-19
      │   │   ├── FY2020.txt
      │   │   ├── FY2021.old
      │   │   ├── FY2021.txt
+     │   │   ├── FY2022.old
      │   │   ├── FY2022.tsv
      │   │   ├── FY2022.txt
      │   │   └── README.md
@@ -15,5 +16,5 @@ COVID-19
      │   └── 石川県の感染者総数の推移 -> Ishikawa
      └── README.md
      
-     3 directories, 8 files (Fri Apr  1 20:03:26 JST 2022)
+     3 directories, 9 files (Sun Apr  3 04:34:38 JST 2022)
 
