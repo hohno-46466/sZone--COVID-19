@@ -11,10 +11,12 @@ COVID-19
      │   │   ├── FY2022.old
      │   │   ├── FY2022.tsv
      │   │   ├── FY2022.txt
-     │   │   └── README.md
+     │   │   ├── README.md
+     │   │   ├── checkit.sh
+     │   │   └── removeit.sh
      │   ├── README.md
      │   └── 石川県の感染者総数の推移 -> Ishikawa
      └── README.md
      
-     3 directories, 9 files (Sun Apr  3 04:34:38 JST 2022)
+     3 directories, 11 files (Sat Apr 23 05:56:50 JST 2022)
 
