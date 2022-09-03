@@ -2,7 +2,7 @@
 
 COVID-19 related information
 
-    ./sZone--COVID-19
+    ./sZone--COVID-19/
      ├──  COVID-19/
      │   ├──  Japan/
      │   │   ├──  Ishikawa/
@@ -23,7 +23,7 @@ COVID-19 related information
      ├──  README.md.old
      └──  特設リンク：石川県 -> COVID-19/Japan/Ishikawa
      
-     5 directories, 14 files (Sun Aug 28 21:29:43 JST 2022)
+     5 directories, 14 files (Tue Aug 30 13:17:43 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/sZone--COVID-19
