@@ -6,7 +6,6 @@
 　https://github.com/hohno-46466/sZone--COVID-19/blob/main/COVID-19/Japan/Ishikawa/FY2022.tsv
 　ttps://github.com/hohno-46466/sZone--COVID-19/blob/main/COVID-19/Japan/Ishikawa/FY2022.tsv
 ・出典および参考情報については末尾に記載。--- は欠測、???は未公表
-
 [ M273 (2022-09) ]
 2022-09-08 147918 (+1284) (治療中9356 退院等138562(退院138280,死亡259,その他23)) (他に取下げ等累計287)
 2022-09-07 146634 (+1491) (治療中13062 退院等133572(退院133291,死亡258,その他23)) (他に取下げ等累計287)
