@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Prev update: Sat Apr 23 09:43:02 JST 2022
+# Prev updated: Sat Apr 23 09:43:02 JST 2022
 # Last updated: Wed Apr 27 11:49:00 JST 2022 by @hohno_at_kuimc
 
 cat "$@" \
