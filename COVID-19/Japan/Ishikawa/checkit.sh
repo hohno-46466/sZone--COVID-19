@@ -1,7 +1,7 @@
 #!/bin/sh
 
-# Prev updated: Sat Apr 23 09:43:02 JST 2022
-# Last updated: Wed Apr 27 11:49:00 JST 2022 by @hohno_at_kuimc
+# Prev update: Sat Apr 23 09:43:02 JST 2022
+# Last update: Wed Apr 27 11:49:00 JST 2022 by @hohno_at_kuimc
 
 cat "$@" \
 | egrep '^20[0-9][0-9]-[0-1][0-9]-[0-3][0-9]' \

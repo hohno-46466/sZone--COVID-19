@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Last updated: Sat Apr 23 09:43:17 JST 2022
+# Last update: Sat Apr 23 09:43:17 JST 2022
 
 cat "$@" \
 | egrep '^[^ ]*202[0-9]-[0-1][0-9]-[0-3][0-9]' \
